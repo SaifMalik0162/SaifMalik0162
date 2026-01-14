@@ -70,23 +70,9 @@ All designed with **persistence, security, and scalability** in mind.
 
 ---
 
-## 🚀 How I Work
-
-I don’t separate “frontend” and “backend” — I build **systems**.  
-UI, API, storage, networking, and deployment all matter. I care about what still works **six months later**, not just on launch day.
-
----
-
 ## 🌐 Socials
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/SaifMalik0162)
-
----
-
-## 📊 GitHub Stats
-
-![Saif's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaifMalik0162&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=SaifMalik0162&theme=tokyonight)
 
 ---
 
