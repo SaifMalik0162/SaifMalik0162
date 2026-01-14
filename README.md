@@ -21,6 +21,7 @@ My work spans app development, API integration, and infrastructure, with a focus
 ## 🔥 Currently Building
 
 🚗 **Empire Connect** — a full-stack platform for real car culture,
+
 ---
 
 ## 🛠️ Skills & Technologies
